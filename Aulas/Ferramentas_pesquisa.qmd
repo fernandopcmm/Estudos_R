@@ -1,0 +1,19 @@
+---
+title: "Ferramentas de pesquisa"
+author: "Fernando Lhamas"
+format: 
+  revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+---
+
+# Ferramentas de pesquisa
+
+# 1 Obsidian
+
+-   Obsidian é uma ferramenta utilizada para tomar notas e gerar arquivos de conhecimento em formato Markdown.
+
+-   É uma ferramenta poderosa para pesquisadores, pois é possível criar a forma desejada de tomar notas.
+
+-   Tem características como vinculação de notas, visualização gráfica das conexões entre notas, e a capacidade de adicionar plugins para funcionalidades expandidas.
